@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrufi_docs=globalThis.webpackChunkrufi_docs||[]).push([[903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/RUFi-site/blog","blogTitle":"Blog","authorsListPath":"/RUFi-site/blog/authors"}')}}]);

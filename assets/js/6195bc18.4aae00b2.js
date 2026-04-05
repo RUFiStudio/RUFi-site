@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrufi_docs=globalThis.webpackChunkrufi_docs||[]).push([[496],{390(o){o.exports=JSON.parse('{"metadata":{"permalink":"/RUFi-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
